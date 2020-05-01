@@ -1,4 +1,4 @@
-## 欢迎来到个人博客
+## 欢迎来到个人博客/welcome to my blog
 
 You can use the [editor on GitHub](https://github.com/godnomoom/godnomoom.github.com/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
